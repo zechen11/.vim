@@ -1,3 +1,6 @@
 [submodule "pack/mypackage/start/airline"]
 	path = pack/mypackage/start/airline
 	url = git@github.com:vim-airline/vim-airline.git
+[submodule "pack/mypackage/start/vimwiki"]
+	path = pack/mypackage/start/vimwiki
+	url = git@github.com:vimwiki/vimwiki.git
